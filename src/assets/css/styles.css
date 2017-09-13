@@ -1,0 +1,19 @@
+body {
+	background-color: black;
+}
+
+* {
+	color: white;
+}
+
+.header {
+	font-size: 70px;
+}
+
+#temp {
+	display: inherit;
+}
+
+#span {
+	display: inherit;
+}
